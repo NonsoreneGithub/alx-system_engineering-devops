@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+echo "i am a file" > iamafile | mv iamafile /tmp
