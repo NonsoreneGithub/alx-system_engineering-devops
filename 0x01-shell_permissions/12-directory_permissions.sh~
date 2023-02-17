@@ -1,0 +1,2 @@
+#!/usr/bin/bash
+chmod u+rwx | xargs mkdir my_dir
